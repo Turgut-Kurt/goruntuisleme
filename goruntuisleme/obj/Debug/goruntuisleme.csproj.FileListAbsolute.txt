@@ -1,0 +1,18 @@
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe.config
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.pdb
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csprojResolveAssemblyReference.cache
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Form1.resources
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Properties.Resources.resources
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csproj.GenerateResource.Cache
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.exe
+c:\users\turgut\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.pdb
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe.config
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.exe
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.pdb
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.pdb
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csprojResolveAssemblyReference.cache
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Form1.resources
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Properties.Resources.resources
+D:\1ABC\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csproj.GenerateResource.Cache
